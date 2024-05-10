@@ -50,7 +50,7 @@ Definations
   Issue
     Issue.Release.Template
     Issue.Draft.Tempate
-Committees
+Working Groups:
   Defination
   Current Active
   Members
