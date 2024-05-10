@@ -11,7 +11,16 @@ Definations
     Enhancements - on Draft Release
   Templates
     Release.Template
-    Chnage.Template
+    Change.Template
+  Discussion
+    Announcemnets
+    Ideas
+    General
+    Poll
+    Q&A
+  Issue
+    Issue.Release.Template
+    Issue.Draft.Tempate
 Committees
   Defination
   Current Active
