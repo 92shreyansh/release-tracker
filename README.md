@@ -35,8 +35,11 @@ Definations
     Enhancements - on Draft Release : Enhancements are improvements or additions made to the API specs to enhance its functionality or use cases. These changes are typically implemented during the development phase of a new release and are included in the draft release for testing and review before being finalized.
     
   Templates
+  
     Release.Template
+
     Change.Template
+    
   Discussion
     Announcemnets
     Ideas
