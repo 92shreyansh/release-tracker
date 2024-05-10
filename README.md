@@ -14,12 +14,14 @@ How to subscibe to Relase Announcements:
 
 Current Versions
 Sr.No. | Domain | Use case | Version | Short Desciption | Release Note | Latest Link
+
+
 Upcomming Releases
 Sr.No. | Domain | Use case | Version | Short Desciption | Project Plan Link | Draft Link
 Definations
-  Release
-    Minor
-    Major
+  Release: A release is a version of the API specs that's ready for users. It could include new features, fixes for problems, or improvements. Each release is marked with a version number.
+    Minor: A minor release usually brings small updates or fixes to the software. It might add new features, but they're not big changes. You'll see the version number change in the second digit, like going from v1.0 to v1.1.
+    Major: A major release means big changes are happening. It could include major updates or new features that significantly change how the API specs will be used. The version number changes in the first digit, like moving from v1.0 to v2.0.
   Change
     Hotfix - on a existing Release
     Enhancements - on Draft Release
