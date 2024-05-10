@@ -22,13 +22,16 @@ Sr.No. | Domain | Use case | Version | Short Desciption | Project Plan Link | Dr
 
 Definations
 
-  Release: A release is a version of the API specs that's ready for users. It could include new features, fixes for problems, or improvements. Each release is marked with a version number.
+    Release: A release is a version of the API specs that's ready for users. It could include new features, fixes for problems, or improvements. Each release is marked with a version number.
+    
     Minor: A minor release usually brings small updates or fixes to the software. It might add new features, but they're not big changes. You'll see the version number change in the second digit, like going from v1.0 to v1.1.
+    
     Major: A major release means big changes are happening. It could include major updates or new features that significantly change how the API specs will be used. The version number changes in the first digit, like moving from v1.0 to v2.0.
     
   Change
   
     Hotfix - on a existing Release : A hotfix is a quick solution to a critical issue or bug found in an existing release. It's applied directly to the current version to address the problem without waiting for the next planned release.
+    
     Enhancements - on Draft Release : Enhancements are improvements or additions made to the API specs to enhance its functionality or use cases. These changes are typically implemented during the development phase of a new release and are included in the draft release for testing and review before being finalized.
     
   Templates
